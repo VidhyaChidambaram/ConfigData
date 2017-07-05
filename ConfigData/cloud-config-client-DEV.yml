@@ -1,6 +1,6 @@
 # spring profiles is optional, this is only added as an additional identifier, for reference purpose
 ---
 spring :
-  profiles : default
+  profiles : DEV
   
-luckyword: thistoowillpassagain
+luckyword: myQAValue
