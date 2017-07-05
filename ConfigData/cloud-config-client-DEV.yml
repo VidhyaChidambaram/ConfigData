@@ -3,4 +3,4 @@
 spring :
   profiles : DEV
   
-luckyword: myQAValue
+luckyword: my DEV Value modified
