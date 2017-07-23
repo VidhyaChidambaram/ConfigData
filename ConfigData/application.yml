@@ -7,4 +7,6 @@ spring:
           search-paths: ConfigData
         native:
           search-locations: classpath:/cloud-config
-        
+
+eureka.client.serviceUrl.defaultZone: http://localhost:8010/eureka/
+      
