@@ -1,7 +1,7 @@
 # spring profiles is optional, this is only added as an additional identifier, for reference purpose
 ---
 spring :
-  profiles : DEV
+  profiles : red
   
 words : tomato,pepper,jellybeans,candies
 
