@@ -1,0 +1,12 @@
+# spring profiles is optional, this is only added as an additional identifier, for reference purpose
+---
+spring :
+  profiles : DEV
+  
+words : tomato,pepper,jellybeans,candies
+
+---
+spring:
+  profiles : default
+  
+words : tomato,pepper,jellybeans,candies
